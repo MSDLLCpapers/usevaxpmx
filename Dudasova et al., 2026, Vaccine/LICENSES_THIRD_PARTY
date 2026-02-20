@@ -1,0 +1,25 @@
+The provided code uses third-party R packages which may be distributed under different
+licenses. We have listed all of these third party packages and their licenses
+below. 
+
+You must agree to the terms of these licenses, in addition to the simulation
+source code license, in order to use this software.
+
+  MIT License (or adaptations) (https://www.opensource.org/licenses/MIT)
+* corrplot - https://cran.r-project.org/web/packages/corrplot/index.html
+* ggplot2 - https://cran.r-project.org/web/packages/ggplot2/index.html
+* kableExtra - https://cran.r-project.org/web/packages/kableExtra/index.html
+* tidyverse - https://cran.r-project.org/web/packages/tidyverse/index.html
+
+  GNU License (or adaptations) (https://opensource.org/licenses/gpl-license, https://opensource.org/license/lgpl-3-0)
+* car - https://cran.r-project.org/web/packages/car/index.html
+* factoextra - https://cran.r-project.org/web/packages/factoextra/index.html
+* FactoMineR - https://cran.r-project.org/web/packages/FactoMineR/index.html
+* ggcorrplot - https://cran.r-project.org/web/packages/ggcorrplot/index.html
+* ggridges - https://cran.r-project.org/web/packages/ggridges/index.html
+* gridExtra - https://cran.r-project.org/web/packages/gridExtra/index.html
+* mstate - https://cran.r-project.org/web/packages/mstate/index.html
+* nnet - https://cran.r-project.org/web/packages/nnet/index.html
+* sandwich - https://cran.r-project.org/web/packages/sandwich/index.html
+* timereg - https://cran.r-project.org/web/packages/timereg/index.html
+* vaxpmx - https://cran.r-project.org/web/packages/vaxpmx/index.html
